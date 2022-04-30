@@ -11,7 +11,7 @@ First of all, you have to give the initial dimensions of the table(4-10) and the
 * BOMB
   ### A bomb explodes every block around our target with range 1.
 * HAMMER
-  ### A hammer destroys every single block next to our target, that has the same color with it.
+  ### A hammer destroys every single block next to our target, that has the same color with it and is connected with the first one through blocks with the same color.
   
 When you break a block, there is a **Gravity** feature, that makes the blocks above the broken to falling down until they meet another block, that is not broken yet.
 Also, if there are empty columns, you can push all blocks to the left, or to the right. Finally there is the oportunity to add a new block, by giving the position and the color you desire.
