@@ -1,5 +1,5 @@
 # Console_Command_Game
-A simple console command Game, made in C.
+A simple Console Command Game, made in C.
 
 ## Description
 
